@@ -1,5 +1,4 @@
 #include <unistd.h>
-
 /**
  * main - A program that prints a string without using printf or puts.
  *
